@@ -1,0 +1,31 @@
+body {
+    background-color: #8b8b8b;
+}
+h1 {
+    background-color: #815151;
+    text-align: center;
+    color: #133c3f;
+    font-size: 5em;
+}
+#p1 {
+    background-color: #3c3770;
+    font-size: 1em;
+    color: #b95e5e;
+}
+#p2 {
+    background-color: #52295c;
+    font-size: 1em;
+    color: #9595df;
+}
+#h21 {
+    background-color: #59a552;
+    font-size: 2em;
+    color: #811d1d;    
+}
+ol{
+    background-color: #cc00ff;
+}
+li {
+    background-color: #794fda;
+    color: #3f0000;
+}
